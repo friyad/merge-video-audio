@@ -12,12 +12,12 @@ export const metadata = {
     "merge video with audio, online video merger, video audio combiner, free video merger tool, merge video from URL, combine video and audio online",
   author: "https://www.friyad.site",
   robots: "index, follow",
-  canonical: "https://yourwebsite.com/merge-video-audio",
+  canonical: "https://merge-video-audio.vercel.app",
   openGraph: {
     title: "Merge Video with Audio Online | Free Video Merger Tool",
     description:
       "Combine video and audio from URLs into a single downloadable file. Use our free online tool for instant results.",
-    url: "https://yourwebsite.com/merge-video-audio",
+    url: "https://merge-video-audio.vercel.app",
     images: [
       {
         url: "https://i.ibb.co/D8QBqNj/thumbnail.jpg",
